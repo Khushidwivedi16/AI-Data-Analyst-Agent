@@ -3,6 +3,13 @@ import os
 import streamlit as st
 
 st.set_page_config(page_title="AI Data Analyst Agent", page_icon="📊", layout="wide")
+try:
+    st.write(
+        "DEBUG - GROQ_API_KEY exists in Streamlit Secrets:",
+        "GROQ_API_KEY" in st.secrets
+    )
+except Exception as e:
+    st.error(f"Secrets access error: {e}")
 
 from ai_agent import ask_agent, build_agent
 from config import DATASETS_DIR, GROQ_API_KEY
