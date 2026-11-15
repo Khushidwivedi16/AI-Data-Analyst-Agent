@@ -1,0 +1,20 @@
+1. What is the total sales amount?
+2. Which region had the highest total sales?
+3. Which category generated the most profit?
+4. What is the average discount given across all orders?
+5. How many orders were placed in the West region?
+6. Which product had the highest quantity sold?
+7. What is the total profit for the Furniture category?
+8. Which customer segment has the highest sales?
+9. What is the total sales for the year 2016?
+10. Which sub-category has the lowest profit?
+11. How many unique customers are there?
+12. What is the average sales per order?
+13. Which state has the highest number of orders?
+14. What is the total quantity of items sold?
+15. Which ship mode is used most frequently?
+16. Who is the CEO of this company?
+17. What is the weather in the West region?
+18. Which employee had the highest performance rating?
+19. What is the company's total revenue for 2025?
+20. What is the customer satisfaction score?
